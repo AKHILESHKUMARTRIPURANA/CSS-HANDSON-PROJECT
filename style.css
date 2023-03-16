@@ -1,0 +1,218 @@
+span
+{
+    color: skyblue;
+}
+.takk
+{
+    background-color: white;
+}
+.containers
+{
+    background-color: rgb(85, 82, 82);
+    height: 800px;
+}
+.full
+{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 100px;
+}
+.hover:hover
+{
+    box-shadow: 2px 2px 4px gray;
+}
+.game
+{
+    text-decoration: line-through;
+    color: gray;
+}
+.paris
+{
+    width: 20%;
+    border: 2px solid grey;
+    padding: 25px;
+    margin: 10px;
+    height: 200px;
+    border-radius: 20px;
+    background-color: white;
+}
+.a
+{
+    text-decoration: none;
+    color: skyblue;
+}
+.to
+{
+    color: skyblue;
+}
+.my
+{
+    width: 20%;
+    border: 2px solid grey;
+    padding: 25px;
+    margin: 10px;
+    height: 200px;
+    border-radius: 20px;
+    background-color: white;
+}
+.li
+{
+    color: skyblue;
+}
+.mov
+{
+    width: 20%;
+    border: 2px solid grey;
+    padding: 25px;
+    margin: 10px;
+    height: 200px;
+    border-radius: 20px;
+    background-color: white;
+}
+.watch
+{
+    color: skyblue;
+}
+.daily
+{
+    width: 20%;
+    border: 2px solid grey;
+    padding: 25px;
+    margin: 10px;
+    height: 200px;
+    border-radius: 20px;
+    background-color: white;
+}
+.morning
+{
+    color: skyblue;
+}
+.book
+{
+    width: 20%;
+    border: 2px solid grey;
+    padding: 25px;
+    margin: 10px;
+    height: 200px;
+    border-radius: 20px;
+    background-color: white;
+}
+.read
+{
+    color: skyblue;
+}
+.na
+{
+    border: 2px solid #7B7B7B29;
+    background-color: white;
+    border-radius: 10px;
+    height: 130px;
+    width: 300px;
+    align-items: center;
+    justify-content: center;
+    margin:170px 500px ;
+    padding: 20px;
+    height:200px;
+}
+.task
+{
+    border: 2px solid #7B7B7B29;
+    background-color: white;
+    border-radius: 10px;
+    height: 140px;
+    width: 300px;
+    align-items: center;
+    justify-content: center;
+    margin:170px 500px ;
+    padding: 20px;
+    position: absolute;
+    top: 70px;
+}
+button
+{
+    width: 40%;
+    height: 25%;
+    background-color: skyblue;
+    margin-left: 150px;
+}
+.aa
+{
+    text-decoration: none;
+}
+.solid
+{
+    position: absolute;
+    left: 875px;
+    top: 60px;
+}
+.soli
+{
+    position: relative;
+    left: 875px;
+}
+.neew
+{
+    color: black;
+    text-decoration: none;
+    font-size: 25px;
+}
+i
+{
+    color: skyblue;
+}
+.sod
+{
+    position: absolute;
+    left: 725px;
+    top: 115px;
+}
+.baa
+{
+    color: black;
+    text-decoration: none;
+    font-size: 25px;
+}
+.bac
+{
+    position: absolute;
+    left: 505px;
+    bottom: 515px;
+}
+.aaaa
+{
+    text-decoration: none;
+}
+.tak
+{
+    border: 2px solid #7B7B7B29;
+    background-color: white;
+    border-radius: 10px;
+    height: 140px;
+    width: 300px;
+    align-items: center;
+    justify-content: center;
+    margin:170px 500px ;
+    padding: 20px;
+    position: absolute;
+    top: 70px;
+}
+.blur
+{
+    filter: blur(1px);
+    opacity: .5;
+}
+.noo
+{
+    position: absolute;
+    left: 300px;
+    top: 30px;
+    color:black;
+}
+.baaa
+{
+    color: black;
+}
+.pll
+{
+    color: blue;
+}
